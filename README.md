@@ -9,9 +9,10 @@ Passionate about the intersection of electronics, programming, and technology, I
  - Strengthening my foundation in core programming concepts through hands-on projects.
  - Diving into electronics and circuit design, blending hardware with software.
  - Building electronics and robotics projects, where I bring together creativity, coding, and engineering.
- - 
-**My Vision**
-To grow as an engineer who bridges hardware and software, contributing to innovative solutions in embedded systems, IoT, and AI-driven technologies.
+
+**My Vision:**
+ 
+ To grow as an engineer who bridges hardware and software, contributing to innovative solutions in embedded systems, IoT, and AI-driven technologies.
 
 **Fun Facts:**
 - Up for coffee or sweets anytime ☕🍰
