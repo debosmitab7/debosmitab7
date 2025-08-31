@@ -2,16 +2,16 @@
 
 Hi! I'm Debosmita Biswas. 
 
-I am currently studying Btech Electronics and Computer Engineering at VIT, Chennai.
-
-Currently immersing myself in diverse aspects of programming and technology to build a well-rounded skill set. 
-I am always eager to gain more knowledge and experience. My goal is to gain practical experience through projects and collaborations.
-
+I’m currently pursuing B.Tech in Electronics and Computer Engineering at VIT, Chennai.
+Passionate about the intersection of electronics, programming, and technology, I’m constantly exploring new domains to build a strong and versatile skill set. My goal is to gain practical experience through projects, research, and collaborations, while continuously learning and evolving.
 
 **What I'm Exploring:**
- - Gaining experience with core programming concepts and engaging in hands-on projects.
- - Delving into the world of electronics, working with circuits, and understanding hardware components.
- - Creating and experimenting with Arduino projects to combine my interest in electronics and programming.
+ - Strengthening my foundation in core programming concepts through hands-on projects.
+ - Diving into electronics and circuit design, blending hardware with software.
+ - Building electronics and robotics projects, where I bring together creativity, coding, and engineering.
+ - 
+**My Vision**
+To grow as an engineer who bridges hardware and software, contributing to innovative solutions in embedded systems, IoT, and AI-driven technologies.
 
 **Fun Facts:**
 - Up for coffee or sweets anytime ☕🍰
